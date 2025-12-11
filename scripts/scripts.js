@@ -11,9 +11,7 @@ import {
   loadSection,
   loadSections,
   loadCSS,
-  loadBlock,
 } from './aem.js';
-import '../blocks/helloworld/helloworld.js';
 
 /**
  * Builds hero block and prepends to main in a new section.
